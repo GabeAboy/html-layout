@@ -1,0 +1,34 @@
+*{box-sizing: border-box;}
+body{margin: 0;
+    padding: 0;
+    }
+nav{background-color: grey;
+    width:100vh;
+    height:100px;
+    padding-top: 10px;
+    }
+.text{height: 100px;
+      margin-left: auto;
+      margin-right: auto;
+
+
+      width:50%;
+      background-color: white;}
+body{background-color: red;}
+.box{width: 75px;
+    height: 75px;
+    background-color: black;
+    margin-left: 20px;
+
+  }
+
+  .col{width: 100vw;
+      height: 100px;}
+  .col-blue{background-color: blue;}
+  .col-green{background-color: green;}
+  .col-yellow{background-color: yellow;}
+  .col-purple{background-color: purple;}
+  .col-text{background-color: white;
+            height:200px;
+            padding-top: 50px;
+            }
